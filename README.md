@@ -1,4 +1,4 @@
-Hey! I’m Leonel — an economist diving deep into data, using machine learning to make sense of the economic world.
+Hey! I’m Leonel — an economist with a master's degree, diving deep into data, using machine learning to make sense of the economic world.
 
 Between January and April 2025, I completed an intensive Data Science Bootcamp through DataScientest in partnership with Université Paris 1 Panthéon-Sorbonne. The program consisted of 280 hours of technical instruction and 120 hours dedicated to the development of an applied final project.
 
